@@ -1,10 +1,10 @@
 Microservices
 =============
-#How do we decide we need to adopt Microservices or not?
+# How do we decide we need to adopt Microservices or not?
 We need to understand that Microservices are not suitable all the time. The following scenarios may not be appropriate to use or adopt microservices:
 * Developing a MVP
 * Entire application effort is with short term goals
-* 
+* Application does not have much interaction with external systems
 
 # When Microservices would be a good bet ?
 * MVP is tested and tried out want to have larger scalable application
