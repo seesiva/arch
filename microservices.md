@@ -1,5 +1,9 @@
 Microservices
 =============
+
+# What is Microservices?
+Microservices is an architecture style. 
+
 # How do we decide we need to adopt Microservices or not?
 We need to understand that Microservices are not suitable all the time. The following scenarios may not be appropriate to use or adopt microservices:
 * Developing a MVP
@@ -11,7 +15,7 @@ We need to understand that Microservices are not suitable all the time. The foll
 * Need to have interaction with multiple services together
 * Leverage APIs to extend the features to an ecosystem
 * Would like to make changes quickly and test it out
-* Large number of people are working on it
+* Different set of people are working on it with varied programming skill sets
 * Support required for loosely coupled business operations 
 * Simplified approach towards update, replace, remove, augment
 * Requirement of granular monitoring of functional components
