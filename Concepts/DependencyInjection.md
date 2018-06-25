@@ -11,3 +11,11 @@ Dependency Injection
 
 ## Simple principle
 * Don't call us, we will call you
+
+## Benefits of DI Implementation
+* Writing testable code
+* Loosely coupled code infrastructure
+* Maintainability
+
+## Finding the need
+* We can find if the existing code is tightly coupled while writing unit tests.
