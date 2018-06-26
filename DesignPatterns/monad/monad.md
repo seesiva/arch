@@ -16,3 +16,6 @@ def sumofsquare(x,y):
 ```
 
 In this case decomposition would be happening as sumofsquare(x,y)=>sumofsquare(square(x)+square(y)). In this case if the number is negative then value returned would be zero. This would become very complicated if we are doing the checks multiple times. Since the evaluate would be happening based on the notations it would be handled with ease.
+
+## Better References
+* https://www.stephanboyer.com/post/9/monads-part-1-a-design-pattern
